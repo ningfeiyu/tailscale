@@ -4,7 +4,7 @@ WORKDIR /app
 
 # ========= CONFIG =========
 # - download links
-ENV MODIFIED_DERPER_GIT=https://github.com/ningfeiyu/tailscale.git # 更改此处
+ENV MODIFIED_DERPER_GIT=https://github.com/ningfeiyu/tailscale.git
 ENV BRANCH=main # 更改此处
 # ==========================
 
